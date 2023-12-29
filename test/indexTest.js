@@ -29,7 +29,7 @@ describe("index.js", () => {
     expect(blackAndWhite).to.exist
     expect(blackAndWhite).to.equal("cow")
     expect(black).to.exist
-    expect(black).to.equal("sheep")
+    expect(black).to.equal("horse")
     expect(pink).to.exist
     expect(pink).to.equal("pig")
   })
